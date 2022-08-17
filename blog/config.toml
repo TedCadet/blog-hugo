@@ -1,0 +1,4 @@
+baseURL = 'https://tedcadet.github.io/'
+languageCode = 'en-us'
+title = "Teds blog"
+theme="contrast-hugo"
